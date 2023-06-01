@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "Pfactorial01",
   name: "Adebayo Adeoye",
-  designation: "Backend Developer",
+  designation: "Fullstack Developer",
   avatarUrl: "/avatar.jpg",
   email: "adeoyeadebayo18@gmail.com",
   phone: "+2348145878086",
