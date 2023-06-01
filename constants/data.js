@@ -68,7 +68,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1PCI2dLDcr12hSeVucjtGTZlKpX_0aaKk/view?usp=sharing",
+    "https://drive.google.com/file/d/17LPfetkfMZu7nnajGiSNTx9JVpPCmZaf/view?usp=sharing",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/adeoyeadebayo/",
     github: "https://github.com/Pfactorial01",
