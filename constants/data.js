@@ -38,7 +38,7 @@ const userData = {
       "I'm a software developer that loves building products and web applications that provide value",
     description: [
       `I've been building software for the past 2 years`,
-      `I am proficient in Javascript, Node.js, Express.js, Python, Flask, Django, relational and non-relational databases and AWS`,
+      `I am proficient in Javascript, React, Node.js, Express.js, Python, Flask, Django, relational and non-relational databases and AWS`,
       `I am problem solver at core with attention to detail and my long term goal is to improve myself and the value of any company or project I find myself in.`,
     ],
     currentProject: "Envue",
@@ -46,14 +46,14 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
+      title: "Fullstack Developer",
       company: "Retink",
       year: "2023",
       companyLink: "https://retink.io/",
       desc: "Contributed to our flagship content creation platform.",
     },
     {
-      title: "Software Developer",
+      title: "Fullstack Developer",
       company: "Trusted Partners",
       year: "2022",
       companyLink: "https://trusted.sa/",
