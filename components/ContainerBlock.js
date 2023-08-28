@@ -41,7 +41,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
         {meta.date && (
           <meta property="article:published_time" content={meta.date} />
         )}
-        <script async src='http://localhost:3008/scripts/m30.js' data-m30="phlox"></script>
+        <script async src='https://m30.local:3000/scripts/m30.js' data-m30="phlox"></script>
       </Head>
       <main className="dark:bg-gray-800 w-full">
         <Navbar />
