@@ -16,6 +16,7 @@ export default function Home({ repositories }) {
       <Hero />
       <FavouriteProjects />
       <LatestCode repositories={repositories} />
+      <script type="text/javascript"> await m30.signup("yourcustomer@email.com") </script>
     </ContainerBlock>
   );
 }
