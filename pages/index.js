@@ -24,8 +24,6 @@ export const getServerSideProps = async () => {
   let token = process.env.GITHUB_AUTH_TOKEN;
 
   const repositories = await getLatestRepos(userData, token);
-  const m30 = await windows.m30
-  await m30.signup("bilo")
 
   return {
     props: {
