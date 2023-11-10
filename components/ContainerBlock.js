@@ -41,7 +41,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
         {meta.date && (
           <meta property="article:published_time" content={meta.date} />
         )}
-        <script async src="https://m30.io/scripts/m30.min.js" data-m30="testt"></script>
+        <script async src="https://localhost:3000/scripts/m30.min.js" data-m30="cllnq3adv0004ten8nnrvh3t2"></script>
       </Head>
       <main className="dark:bg-gray-800 w-full">
         <Navbar />
